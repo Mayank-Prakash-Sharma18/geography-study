@@ -46,8 +46,12 @@ call_to_action:
 
 ## What is our main mission?
 
-We want to create awareness about pet care and sensitize people to treat animals more humanely. 
+Welcome to the **Grey Matter Classes Courses** !
 
-Our aim is to open a country-wide NGO that can take care of animals, e.g. stray dogs and cats etc. and streamline all the services required for that purpose. 
+This is a website dedicated to Geography subject preparation for UPSC. Civil service aspirants aiming for state PSC exams may also find the resources available on this website useful. 
+
+Geography is a wide subject and IAS aspirants often have to refer various sources. We at Grey Matter Classes strive to provide you the best content when it comes to Geography, at one place. 
+
+Moreover, books cannot do justice with this subject. Geography is a subject that can be learnt better if we get to visualize and interact with the content. It also helps us to retain what we have just read. This is an effort in that direction. 
 
 Regards
