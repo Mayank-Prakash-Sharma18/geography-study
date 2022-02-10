@@ -31,15 +31,15 @@ People and elements do not fall off the earth because of the gravity of the eart
 
 The first voyage around the world by Ferdinand Magellan (1519 to 1522) proved that the earth is spherical and not flat. 
 
-<img src="../../../images/post/earth/circum-navigation-of-the-earth.png" alt="circum navigation of the earth" style="width:72%;height:72%;">
+<img src="../../../images/post/earth/circum-navigation-of-the-earth.png" alt="circum navigation of the earth" style="width:72%;height:72%;"><br>
 
 ### Ship’s Visibility
 
 When a ship appears over the distant horizon, the top of the mast is seen first before the hull. 
 
-<img src="../../../images/post/earth/ships-visibility.jpg" alt="Ship's visibility" style="width:81%;height:81%;">
+<img src="../../../images/post/earth/ships-visibility.jpg" alt="Ship's visibility" style="width:81%;height:81%;"><br>
 
-<img src="../../../images/post/earth/line-of-sight.png" alt="Line of sight" style="width:99%;height:99%;">
+<img src="../../../images/post/earth/line-of-sight.png" alt="Line of sight" style="width:99%;height:99%;"><br>
 
 ### Sunrise and sunset
 
@@ -53,7 +53,7 @@ If the earth were flat, the whole world would have sunrise and sunset at the sam
 
 The shadow cast by the earth on the moon during the lunar eclipse is always circular. 
 
-<img src="../../../images/post/earth/lunar-eclipse-shadow.gif" alt="lunar eclipse shadow" style="width:99%;height:99%;">
+<img src="../../../images/post/earth/lunar-eclipse-shadow.gif" alt="lunar eclipse shadow" style="width:99%;height:99%;"><br>
 
 ### Other Planetary bodies 
 
@@ -66,5 +66,5 @@ Pictures taken from high altitudes and satellites clearly show that the earth is
 
 ### Earth seen from Space
 
-The strongest proof of the fact that the Earth is spherical.
+It's obviously the strongest proof of the fact that the Earth is spherical.
 

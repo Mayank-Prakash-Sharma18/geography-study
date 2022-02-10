@@ -3,7 +3,7 @@ title: "What are Latitudes and Longitudes?"
 date: 2022-02-06T15:40:24+06:00
 # post thumb
 images:
-  - "images/post/earth/latitudes-and-longitudes.png"
+  - "images/post/earth/coordinates.png"
 #author
 author: "Mayank Sharma"
 # description
@@ -15,13 +15,13 @@ type: "trending" # available type (epic, trending, popular, or regular)
 draft: false
 ---
 
-Latitude & Longitude - Imaginary lines drawn on the globe.
+Latitude & Longitude - These are imaginary lines drawn on the globe.
 
-<img src="../../../images/post/earth/latitudes-and-longitudes.png" alt="latitudes and longitudes" style="width:99%;height:99%;">
+<img src="../../../images/post/earth/latitudes-and-longitudes.png" alt="latitudes and longitudes" style="width:99%;height:99%;"> <br><br>
 
-Lines running east and west, parallel to the equator - Lines/Parallels of latitude. 
+Lines running east and west, parallel to the equator - These are called Lines/Parallels of ***latitude***. 
 
-Lines running north and south passing through the poles - Lines/Meridians of longitude 
+Lines running north and south passing through the poles - These are called Lines/Meridians of ***longitude*** 
 
 The  intersection of latitude and longitude pin-points any place on the earth’s surface.
 
@@ -37,11 +37,11 @@ The  intersection of latitude and longitude pin-points any place on the earth’
 
 ## Latitude
 
-Latitude - angular distance (in degrees) of a point on the earth's surface from the centre of the earth. 
+Latitude - ***angular distance*** (in degrees) of a point on the earth's surface ***from the centre of the earth***. 
 
-<img src="../../../images/post/earth/latitude-angular-distance.png" alt="latitude angular distance" style="width:99%;height:99%;">
+<img src="../../../images/post/earth/latitude-angular-distance.png" alt="latitude angular distance" style="width:99%;height:99%;"><br>
 
-* Latitude lines/Parallels are parallel to the equator. 
+* Latitude lines or Parallels are parallel to the equator. 
 * They are circles which get smaller polewards. 
 * The equator represents 0° and the North and South Poles are 90°N and 90°S.
 * Average linear distance of a degree of latitude = 69 miles (111 km)
@@ -55,13 +55,13 @@ Latitude - angular distance (in degrees) of a point on the earth's surface from 
 
 ## Longitude
 
-Longitude - angular distance (in degrees) of a place east or west of the Prime Meridian.
+Longitude - ***angular distance*** (in degrees) of a place east or west of the ***Prime Meridian***.
 
 <div class="toc-mak">
   <img src="../../../images/pencil.png">
-  <b>Note</b><br>
+  <b>Prime Meridian / Greenwich Meridian</b><br>
 
-Prime Meridian/Greenwich Meridian - Zero meridian (00) passes through the Royal Astronomical Observatory at Greenwich, near London.
+Zero meridian (0°) passes through the Royal Astronomical Observatory at Greenwich, near London.
 </div> 
 
 All other meridians radiate eastward and westwards up to 180° from Prime Meridian. 
@@ -81,7 +81,7 @@ Using this grid we can determine exact positions of any place <strong>in referen
 
 To provide a geographic location of a place using latitude and longitude - <strong>Coordinates</strong> are used.   
 
-* The latitude has the symbol of phi & the longitude has the symbol of lambda. 
+* The latitude has the symbol of phi (Φ) & the longitude has the symbol of lambda (λ). 
 <img src="../../../images/post/earth/coordinates.png" alt="coordinates" style="width:90%;height:90%;">
 
 * Latitude is always written first.
