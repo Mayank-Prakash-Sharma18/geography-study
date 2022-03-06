@@ -13,6 +13,7 @@ categories: ["earth"]
 tags: ["evidences-of-shape-of-earth"]
 type: "trending" # available type (epic, trending, popular, or regular)
 draft: false
+katex: false
 ---
 
 Earth has a spherical shape, not exact sphere though. 

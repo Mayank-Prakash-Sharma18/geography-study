@@ -11,7 +11,7 @@ description: ""
 # Taxonomies
 categories: ["earth"]
 tags: ["movement-of-earth"]
-type: "trending" # available type (epic, trending, popular, or regular)
+type: "epic" # available type (epic, trending, popular, or regular)
 draft: false
 ---
 
