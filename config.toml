@@ -152,19 +152,40 @@ bio = "Geography Trainer"
 ############# english navigation ##############
 
 [[Languages.en.menu.main]]
-name = "Earth"
-url = "categories/earth/"
+name = "Physical Geography"
+url = "#"
 weight = 1
+hasChildren = true
+
+  [[Languages.en.menu.main]]
+  parent = "Physical Geography"
+  name = "Earth"
+  url = "categories/earth/"
+  weight = 2
+
+  [[Languages.en.menu.main]]
+  parent = "Physical Geography"
+  name = "Climatology"
+  url = "categories/climatology/"
+  weight = 3
+
+  [[Languages.en.menu.main]]
+  parent = "Physical Geography"
+  name = "Oceanography"
+  url = "categories/oceanography/"
+  weight = 4
 
 [[Languages.en.menu.main]]
-name = "Climatology"
-url = "categories/climatology/"
-weight = 2
+name = "Human Geography"
+url = "#"
+weight = 11
+hasChildren = true
 
-[[Languages.en.menu.main]]
-name = "Oceanography"
-url = "categories/oceanography/"
-weight = 3
+  [[Languages.en.menu.main]]
+  parent = "Human Geography"
+  name = "Human Geography Theories"
+  url = "categories/human-geographical-theories/"
+  weight = 12
 
 # [[Languages.en.menu.main]]
 # name = "Parrots"
@@ -232,19 +253,41 @@ bio = "Geography Trainer"
 ############# french navigation ##############
 
 [[Languages.hi.menu.main]]
-name = "पृथ्वी"
-url = "categories/earth/"
+name = "भौतिक भूगोल"
+url = "#"
 weight = 1
+hasChildren = true
+
+  [[Languages.hi.menu.main]]
+  parent = "भौतिक भूगोल"
+  name = "पृथ्वी"
+  url = "categories/earth/"
+  weight = 2
+
+  [[Languages.hi.menu.main]]
+  parent = "भौतिक भूगोल"
+  name = "जलवायु विज्ञान"
+  url = "categories/climatology/"
+  weight = 3
+
+  [[Languages.hi.menu.main]]
+  parent = "भौतिक भूगोल"
+  name = "समुद्र विज्ञान"
+  url = "categories/oceanography/"
+  weight = 4
+
 
 [[Languages.hi.menu.main]]
-name = "जलवायु विज्ञान"
-url = "categories/climatology/"
-weight = 2
+name = "मानव भूगोल"
+url = "#"
+weight = 11
+hasChildren = true
 
-[[Languages.hi.menu.main]]
-name = "समुद्र विज्ञान"
-url = "categories/oceanography/"
-weight = 3
+  [[Languages.hi.menu.main]]
+  parent = "मानव भूगोल"
+  name = "मानव भूगोल सिद्धांत"
+  url = "categories/human-geographical-theories/"
+  weight = 12
 
 # [[Languages.hi.menu.main]]
 # name = "तोते"
