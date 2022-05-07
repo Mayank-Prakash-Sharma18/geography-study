@@ -187,6 +187,12 @@ hasChildren = true
   url = "categories/human-geographical-theories/"
   weight = 12
 
+  [[Languages.en.menu.main]]
+  parent = "Human Geography"
+  name = "Population"
+  url = "categories/population/"
+  weight = 13
+
 # [[Languages.en.menu.main]]
 # name = "Parrots"
 # url = "categories/parrots/"
@@ -288,6 +294,12 @@ hasChildren = true
   name = "मानव भूगोल सिद्धांत"
   url = "categories/human-geographical-theories/"
   weight = 12
+
+  [[Languages.hi.menu.main]]
+  parent = "मानव भूगोल"
+  name = "जनसंख्या"
+  url = "categories/population/"
+  weight = 13
 
 # [[Languages.hi.menu.main]]
 # name = "तोते"
